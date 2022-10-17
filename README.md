@@ -1,6 +1,6 @@
 @cts93
 
-https://www.linkedin.com/in/cthiagos/
+[LinkedIn](https://www.linkedin.com/in/cthiagos/)
 
 Hello world!
 
