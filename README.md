@@ -1,4 +1,4 @@
-# [LinkedIn](https://www.linkedin.com/in/cthiagos/)
+# [LinkedIn](https://www.linkedin.com/in/cthiagos/) [Email](mailto:ctss.santos@gmail.com) [WhatsApp](https://wa.me/5521991331706)
 
 ### *Hello world!*
 
