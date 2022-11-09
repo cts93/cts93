@@ -1,7 +1,5 @@
 # [LinkedIn](https://www.linkedin.com/in/cthiagos/) - [Email](mailto:ctss.santos@gmail.com)
 
-### *Hello world!*
-
 Meu nome é Carlos Thiago Santos. Tenho 28 anos, sou natural de São Gonçalo e atualmente moro na cidade ao lado, chamada Niterói.
 
 Neste espaço, desenvolvo projetos front-end me valendo primariamente de HTML, CSS e JavaScript. Você encontrará uma evolução constante e coerente, tendo sempre uma data de entrega e padrão de organização. Para maiores informações, confira os links acima.
